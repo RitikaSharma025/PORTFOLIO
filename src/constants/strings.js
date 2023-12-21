@@ -16,7 +16,7 @@ class Strings {
   static instagramUsername = "Ritika";
 
   static twitter = "Twitter";
-  static twitterLink = "https://www.twitter.com/Ritika88691863";
+  static twitterLink = "https://www.twitter.com/RitikaS88691863";
   static twitterUsername = "Rits";
 
   static fullName = "Ritika Sharma";

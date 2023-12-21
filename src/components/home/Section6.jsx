@@ -46,7 +46,7 @@ const HomeSection6 = ({ current, setCurrent }) => {
             <Row
               classes="bg-[var(--textColor10)] p-4 rounded-[var(--borderRadius)] items-center text-center justify-center cursor-pointer animated__hover"
               onClick={() =>
-                onHandleClickUrl("mailto:nkr.nikhil.nkr@gmail.com")
+                onHandleClickUrl("mailto:ritikasharma11154@gmail.com")
               }
             >
               <span className="text-xl">

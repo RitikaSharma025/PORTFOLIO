@@ -12,12 +12,12 @@ class Strings {
   static linkedInUsername = "Ritika Sharma";
 
   static instagram = "Instagram";
-  static instagramLink = "https://www.instagram.com/ritika_25_09";
+  static instagramLink = "https://www.instagram.com/ritika_25_09_";
   static instagramUsername = "Ritika";
 
   static twitter = "Twitter";
   static twitterLink = "https://www.twitter.com/Ritika88691863";
-  static twitterUsername = "Ritika88691863";
+  static twitterUsername = "Rits";
 
   static fullName = "Ritika Sharma";
   static shortName = "Ritsharma";

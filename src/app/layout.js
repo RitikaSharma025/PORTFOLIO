@@ -12,7 +12,7 @@ const poppins = Poppins({
 export const metadata = {
   title: "Ritika Sharma",
   description:
-    "Nikhil Rajput is a proficient Full Stack Developer, skilled in seamlessly integrating front-end and back-end technologies while excelling in design.",
+    "Ritika Sharma is a proficient Full Stack Developer, skilled in seamlessly integrating front-end and back-end technologies while excelling in design.",
 };
 
 const RootLayout = ({ children }) => {
